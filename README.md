@@ -17,3 +17,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title)
 
 Also practice on how to create a repo, and commit changes with comments to Github.
+
+![hmwk_horiseon_scrnshot](https://user-images.githubusercontent.com/90938940/137661574-f04ce9b0-2270-44bd-a39b-58b252a8de0a.png)
