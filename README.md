@@ -1,4 +1,4 @@
-# homework-wk01
+# horiseon-code-refactor
 
 Homework assignment for week 1 of DU's bootcamp program.
 
@@ -20,4 +20,4 @@ Also practice on how to create a repo, and commit changes with comments to Githu
 
 ![hmwk_horiseon_scrnshot](https://user-images.githubusercontent.com/90938940/137661574-f04ce9b0-2270-44bd-a39b-58b252a8de0a.png)
 
-https://oddtk.github.io/homework-wk01/
+https://oddtk.github.io/horiseon-code-refactor/
